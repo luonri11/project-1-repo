@@ -1,0 +1,7 @@
+City,Climate Classification,Lat,Lon,Country,Population,Air Quality Index US,Number of Power Plants within 1 degree Lat/Lon
+Fuzhou,Cfa,27.9814,116.3577,China,4047200.0,37,14
+Huaihua,Cfa,27.5494,109.9592,China,4979600.0,57,32
+Sydney,Cfa,-33.865,151.2094,Australia,4840600.0,5,31
+Anqing,Cfa,30.5,117.0333,China,4723000.0,50,20
+Melbourne,Cfa,-37.8136,144.9631,Australia,4529500.0,44,25
+Xiaoxita,Cfa,30.7083,111.2803,China,4137900.0,61,21
